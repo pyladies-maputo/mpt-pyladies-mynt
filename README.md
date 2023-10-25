@@ -1,2 +1,2 @@
 # website
-Website PyLadies Maputo usando Pelican generator
+Website PyLadies Maputo usando mynt generator
