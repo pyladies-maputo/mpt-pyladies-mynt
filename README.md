@@ -1,7 +1,2 @@
 # website
-
-Website PyLadies Maputo usando Pelican generator
-
-# Environment
-
-
+Website PyLadies Maputo usando mynt generator
