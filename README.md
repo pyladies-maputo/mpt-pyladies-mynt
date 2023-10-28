@@ -30,7 +30,7 @@ Now, activate the virtual environment (venv) and install the required libraries
 For Linux and MacOS users:
 
 ```bash
-$ source
+$ source venv/bin/activate
 ```
 
 For Windows users:
